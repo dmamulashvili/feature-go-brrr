@@ -1,0 +1,4 @@
+# Local SQLite database created when running the app
+*.db
+*.db-shm
+*.db-wal
